@@ -225,7 +225,8 @@ namespace Staz2022
             }
 
 
-            
+            /*
+             * Draw the ways
             for (int i = 0; i < Side_y; i++)
             {
                 for (int j = 0; j < Side_x; j++)
@@ -234,7 +235,7 @@ namespace Staz2022
                 }
                 Console.WriteLine();
             }
-
+            */
 
             //Checking whether the distance is the same         
             for (int y = 0; y < Side_y; y++)
